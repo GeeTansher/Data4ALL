@@ -1,29 +1,30 @@
 <img src="./assets/images/data4all_poster.gif"/>
 
-<h1 align=center>Data4ALL Website</h1>
+<h1 align=center>Data4ALL</h1>
+<h2 align=center>Dataset Repository<h2>
 
-## **About Us 😃:**
+## **About Us :smiley:**
 ***
 
 **DATA4ALL** is a completely community driven website for providing free data sets to developers which can help them to develop exciting user driven applications and make a great impact on the world. 
 
-<h3 align=center> <a href="https://samz5320.github.io/Data4ALL/"> Our Website 💻 </a></h3>
+<h3 align=center> <a href="https://samz5320.github.io/Data4ALL/"> Our Website 🔗</a></h3>
 
 ***
 
-## **Features 😎🗻:**
+## **Features :** 
 
 
 Since, It is a fresh new project and still in development phase.
 we have the following features :
 
-  **1> You can filter out datasets with levels : "Beginner, Intermediate, Advanced".**
+  * **You can filter out datasets with levels : "Beginner, Intermediate, Advanced".**
   
-  **2> You can select a theme of your choice : It can be Light or Dark.**
+  * **You can select a theme of your choice : It can be Light or Dark.**
   
-  **3> You can download the datasets.**
+  * **You can download the datasets.**
   
-  **4> You can copy the link of datasets to share with others.**
+  * **You can copy the link of datasets to share with others.**
 
 
 
